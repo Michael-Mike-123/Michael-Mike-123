@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707241761 source:e:\codeblocks projects\tic-tac-toe\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+
